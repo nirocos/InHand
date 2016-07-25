@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "407251883923",
+    "firebase_url": "https://inhand-dd9ec.firebaseio.com",
+    "project_id": "inhand-dd9ec",
+    "storage_bucket": "inhand-dd9ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407251883923:android:92f67b81c438c472",
+        "android_client_info": {
+          "package_name": "com.app.savezone.inhand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407251883923-villvaq3en9jgprpi444jpd7cg340urs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjobpxdcxFjdBn3htNaFWHsqKAlNkEIfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
